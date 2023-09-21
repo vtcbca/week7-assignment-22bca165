@@ -1,0 +1,19 @@
+Create CSV file for product selling for 6 Months ( Prod_No | Prod_Name | Jan | Feb | Mar | Apr | May | Jun) for 5 products.
+
+Perform following operations.
+
+1. Add 12 Records. Take input from user.
+2. Create dataframe.
+3. Change Column Name Product No, Product Name, January, February, March, April, May, June.
+4. Add column "Total Sell" to count total of all month and "Average Sell"
+5. Add 2 row at the end.
+6. Add 2 row after 3rd row.
+7. Print first 5 row.
+8. Print Last 5 row.
+9. Print row 6 to 10.
+10. Print only product name.
+11. Print sell of January month with product id and product name.
+12. Print only those product id , product name where january sell is > 5000 and February sell is >8000
+13. Print record in sorting order of Product name.
+14. Display only odd index number column record.
+15. Display alternate row.
